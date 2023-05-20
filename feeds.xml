@@ -12,7 +12,7 @@
     <outline type="rss" text="CNBC Indonesia - Berita Ekonomi dan Bisnis Terkini Hari Ini" title="CNBC Indonesia - Berita Ekonomi dan Bisnis Terkini Hari Ini" xmlUrl="https://www.cnbcindonesia.com/rss" htmlUrl="https://www.cnbcindonesia.com" />
     <outline type="rss" text="CNN Indonesia | Berita Terbaru, Terkini Indonesia, Dunia" title="CNN Indonesia | Berita Terbaru, Terkini Indonesia, Dunia" xmlUrl="https://www.cnnindonesia.com/rss" htmlUrl="https://www.cnnindonesia.com/" />
     <outline type="rss" text="Indonesia - Voice of America" title="Indonesia - Voice of America" xmlUrl="https://www.voaindonesia.com/api/zmgo_ebmiy" htmlUrl="https://www.voaindonesia.com/z/555" />
-    <outline type="rss" text="Republika Online RSS Feed" title="Republika Online RSS Feed" xmlUrl="https://www.republika.co.id/rss" htmlUrl="https://www.republika.co.id" updateMode="DEFAULT" />
+    <outline type="rss" text="Republika Online RSS Feed" title="Republika Online RSS Feed" xmlUrl="https://www.republika.co.id/rss" htmlUrl="https://www.republika.co.id" />
     <outline type="rss" text="Sindikasi news.okezone.com" title="Sindikasi news.okezone.com" xmlUrl="https://sindikasi.okezone.com/index.php/rss/1/RSS2.0" htmlUrl="https://news.okezone.com" />
     <outline type="rss" text="Sindikasi www.okezone.com" title="Sindikasi www.okezone.com" xmlUrl="https://sindikasi.okezone.com/index.php/rss/0/RSS2.0" htmlUrl="https://www.okezone.com" />
 
