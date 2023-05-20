@@ -1,5 +1,7 @@
 # rss-feed-berita
 Daftar alamat feed RSS berita Indonesia
+## File impor OPML
+https://github.com/arfshl/rss-feed-berita/raw/main/feeds.opml
 
 ### CNN Indonesia
 https://www.cnnindonesia.com/rss
