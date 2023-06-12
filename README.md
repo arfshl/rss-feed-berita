@@ -27,10 +27,8 @@ https://sindikasi.okezone.com/index.php/rss/1/RSS2.0
 https://www.vice.com/id/rss?locale=id_id
 ### Sindonews
 https://www.sindonews.com/feed
-### BBC Indonesia Berita Utama
-https://www.bbc.co.uk/indonesia/index.xml
 ### BBC Indonesia
-https://www.bbc.co.uk/indonesia/berita_indonesia/index.xml
+https://www.bbc.co.uk/indonesia/index.xml
 ### VOA Indonesia Berita 
 https://www.voaindonesia.com/api/zmgqoebmoi
 ### VOA Indonesia
